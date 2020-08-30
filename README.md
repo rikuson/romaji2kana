@@ -29,7 +29,7 @@ $ romaji2kana nihongo
 ```javascipt
 const romaji = 'nihongo';
 const kana = romaji2kana(romaji);
-console.log(kana);
+console.log(kana); // にほんご
 ```
 
 ### Node.js
@@ -38,5 +38,5 @@ console.log(kana);
 const romaji2kana = require('romaji2kana');
 const romaji = 'nihongo';
 const kana = romaji2kana(romaji);
-console.log(kana);
+console.log(kana); // にほんご
 ```
