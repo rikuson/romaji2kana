@@ -9,6 +9,7 @@
   "scripts": {
     "start": "webpack --mode development --watch",
     "build": "webpack --mode production",
+    "postinstall": "npm run build",
     "test": "mocha"
   },
   "repository": {
