@@ -3,6 +3,8 @@
 Convert romaji strings into kana.  
 You can use it in command line and browser.
 
+[Demo](https://rikuson.github.io/romaji2kana/)
+
 ## Installation
 
 ```
