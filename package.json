@@ -1,6 +1,6 @@
 {
   "name": "romaji2kana",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert romaji strings into kana",
   "main": "./dist/bundle.js",
   "bin": {
