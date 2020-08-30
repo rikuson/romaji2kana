@@ -26,7 +26,7 @@ $ romaji2kana nihongo
 <script type="text/javascript" src="./dist/bundle.js"></script>
 ```
 
-```javascipt
+```javascript
 const romaji = 'nihongo';
 const kana = romaji2kana(romaji);
 console.log(kana); // にほんご
@@ -34,7 +34,7 @@ console.log(kana); // にほんご
 
 ### Node.js
 
-```javascipt
+```javascript
 const romaji2kana = require('romaji2kana');
 const romaji = 'nihongo';
 const kana = romaji2kana(romaji);
